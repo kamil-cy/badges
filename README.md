@@ -4,6 +4,11 @@
 
 Public domain images released under CC0 1.0
 
+✔ Free for commercial use  
+✔ No attribution required  
+✔ Open-source friendly  
+✔ Ready for README files and web projects
+
 # Conversion from SVG to PNG
 
 ```sh
